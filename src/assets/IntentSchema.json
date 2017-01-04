@@ -1,0 +1,16 @@
+{
+  "intents": [
+    {
+      "intent": "WikiIntent",
+      "slots": [
+        {
+          "name": "keyword",
+          "type": "AMAZON.Animal"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}

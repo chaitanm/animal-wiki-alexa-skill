@@ -1,0 +1,4 @@
+WikiIntent {keyword}
+WikiIntent what is {keyword}
+WikiIntent explain {keyword}
+WikiIntent get details of {keyword}
